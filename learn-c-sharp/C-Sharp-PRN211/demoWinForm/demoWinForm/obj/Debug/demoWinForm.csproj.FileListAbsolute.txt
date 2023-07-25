@@ -1,0 +1,11 @@
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe.config
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\bin\Debug\demoWinForm.exe
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\bin\Debug\demoWinForm.pdb
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.AssemblyReference.cache
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.SuggestedBindingRedirects.cache
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Form1.resources
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.Properties.Resources.resources
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.GenerateResource.cache
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.csproj.CoreCompileInputs.cache
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.exe
+D:\StudyFPT\5\PRN211\code\C#\demoWinForm\demoWinForm\obj\Debug\demoWinForm.pdb

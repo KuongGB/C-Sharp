@@ -1,0 +1,15 @@
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+D:\StudyFPT\5\PRN211\code\C#\test1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll

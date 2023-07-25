@@ -1,0 +1,16 @@
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\bin\Debug\WpfApp1.exe
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\App.g.cs
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\MainWindow.baml
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.exe
+D:\StudyFPT\5\PRN211\code\C#\WpfDemo\WpfApp1\obj\Debug\WpfApp1.pdb
